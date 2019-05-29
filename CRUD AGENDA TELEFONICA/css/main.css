@@ -1,0 +1,19 @@
+body {
+    font-family: "Ubuntu", sans-serif;
+    text-align: center;
+    background-color: white;
+}
+
+.top {
+    color: #6363f7;
+}
+
+.conteudo {
+    background-color: rgba(145, 130, 130, 0.877);
+}
+
+table {
+    align-items: center;
+    border: 1px;
+    color: blanchedalmond;
+}
